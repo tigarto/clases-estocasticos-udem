@@ -1,5 +1,8 @@
 # -*- coding: utf-8 -*-
 
+# Nombre: Hernesto Perez Frailejon.
+# Fecha: 23/03/2023
+
 
 import scipy.stats as stats
 import numpy as np
